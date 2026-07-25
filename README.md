@@ -2,7 +2,7 @@
 #  Resume Assistant
 
 A Python project that demonstrates **LLM tool calling** with structured file system tools.  
-It can list resumes, read their contents, search for keywords, and generate summary files — all triggered by natural language queries.
+It can list resumes, read their contents, search for keywords, and generate summary files, all triggered by natural language queries.
 
 ---
 
@@ -32,7 +32,7 @@ resume_assistant/
 
 
 
-## 🛠 Tools Implemented (fs_tools.py)
+##  Tools Implemented (fs_tools.py)
 
 - **read_file** → Reads resume files, extracts text + metadata.
 - **list_files** → Lists files in a directory, filters by extension.
